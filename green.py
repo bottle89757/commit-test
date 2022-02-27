@@ -17,7 +17,7 @@ def modify():
 
 
 def commit():
-    os.system('git commit -a')
+    os.system("git commit -a -m 'test'")
 
 
 def set_sys_time(year, month, day):
