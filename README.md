@@ -34,7 +34,7 @@ if __name__ == '__main__':
 在green目录下，
 
 ```
-sudo python green.py
+python green.py
 git push origin master
 ```
 
